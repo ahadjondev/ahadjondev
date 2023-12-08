@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahadjondev and i am front-end web developer
+- 👀 I’m interested in to create usefull websites
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : telegram & instagram => @ahadjon_gulomov
